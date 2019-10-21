@@ -1,0 +1,23 @@
+/*Normalize*/
+
+body{
+    height: 100%;
+    }
+
+    {
+        box-sizing: border-box;
+    }
+
+    h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      margin: 0;
+      padding:0;
+      line-height: 1.2em;
+      text-transform: uppercase;
+  }
+
+
+
