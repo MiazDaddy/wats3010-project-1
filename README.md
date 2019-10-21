@@ -247,10 +247,7 @@
       margin: 0;
   }
 
-  .big-image img {
-      width: 100%;
-      height: 200px;
-  }
+  
 ```
 7. Table layouts are used for both the Recent Blogs and About sections.  The table layout will be controlled by the number of rows and columns as well as the amount of content.
   - create a class named `table` and assign it to sections containing **Recent Blogs** and **About**.  Create a table class selector in the style sheet and give it the following properties and values:
